@@ -63,7 +63,7 @@ Here is an example usage of a figure that consists of a row of images with a cap
 <figure id="example-figure" class="l-body-outset">
   <div class="row">
     <div class="col one">
-      <img src="{{ 'assets/img/notes/template/1.jpg' | relative_url }}" />
+      <img src="{{ 'assets/img/notes/lecture-01/cell-ex.png' | relative_url }}" />
     </div>
     <div class="col one">
       <img src="{{ 'assets/img/notes/template/2.jpg' | relative_url }}" />
